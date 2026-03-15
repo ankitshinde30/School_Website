@@ -3,10 +3,11 @@
 A responsive and modern school website built with **HTML**, **CSS**, and **JavaScript** — designed to provide students, parents, and staff with easy access to school information.
 
 ---
-
 ## 🌐 Live Demo
 
+Click the link below to view the deployed project:
 
+👉 **[School Website Live](https://school-website-gamma-eight.vercel.app/)**
 
 
 ---
